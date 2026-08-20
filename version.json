@@ -1,6 +1,6 @@
 {
-  "version": "5.6.1",
+  "version": "5.6.2",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "4572E78B16A06FDE756BB766CBA8CBE193DA4FD40103BFF50F28A0A09C098B4D",
-  "notes": "Fluxo do Automate atualizado para usar o nome local e a porta do Jarvis, com campos seguros para configuração do token."
+  "sha256": "97128D9DBCBBF4389D70414A6D50C46934FC69AFAC0143ECC13D32C83FACD174",
+  "notes": "A tela de rede agora mostra a URL completa para o app Atalhos e o modelo do cabeçalho Bearer em campos fáceis de copiar."
 }
