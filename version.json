@@ -1,6 +1,6 @@
 {
-  "version": "5.6.0",
+  "version": "5.6.1",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "16D08A5A29DBB6A7EEF17E042158EC07675D18C1E1401840EDB86DC8522EABE7",
-  "notes": "Identidade local única, portas automáticas em novas instalações, pareamento por QR no iPhone e fechamento seguro por sessão e política."
+  "sha256": "4572E78B16A06FDE756BB766CBA8CBE193DA4FD40103BFF50F28A0A09C098B4D",
+  "notes": "Fluxo do Automate atualizado para usar o nome local e a porta do Jarvis, com campos seguros para configuração do token."
 }
