@@ -1,6 +1,6 @@
 {
-  "version": "5.5.2",
+  "version": "5.6.0",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "C38B9A1C9808E50FE87103C90FC66DBA50A17140AAEAB8891C2B4D3ECE3F59FF",
-  "notes": "Atualizador robusto com SHA-256, preservação integral das configurações e suporte para abrir e fechar aplicativos nos modos."
+  "sha256": "16D08A5A29DBB6A7EEF17E042158EC07675D18C1E1401840EDB86DC8522EABE7",
+  "notes": "Identidade local única, portas automáticas em novas instalações, pareamento por QR no iPhone e fechamento seguro por sessão e política."
 }
