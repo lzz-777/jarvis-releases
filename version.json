@@ -1,6 +1,6 @@
 {
-  "version": "5.5.0",
+  "version": "5.5.1",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "1B1648429C25B58A8D1847D41CDF1164BA2100C5A43B1437571F70546888F665",
-  "notes": "Atualização automática e suporte para abrir e fechar aplicativos nos modos."
+  "sha256": "C292AC6C3BC96A47233EBFE2F42D14EFC67865CB3690B7001F39CD7E80C9AE30",
+  "notes": "Preserva integralmente configurações existentes durante atualizações, além do suporte para abrir e fechar aplicativos nos modos."
 }
