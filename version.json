@@ -1,6 +1,6 @@
 {
-  "version": "5.6.3",
+  "version": "5.6.4",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "AAD667A7408263B8194FADEAE0101540A056AF37FB738A0B9955B73367D625D2",
-  "notes": "Adiciona IPs autorizados de ponte/VPN, copia os logs carregados e corrige o fechamento de aplicativos sem janelas de CMD piscando."
+  "sha256": "19555E7F77D229ABDD28821D8A56971B84D0DF6AFD78CF7B1E99470BD306994A",
+  "notes": "Configura o Firewall com uma regra segura por programa, valida para qualquer porta futura da Bridge em redes privadas."
 }
