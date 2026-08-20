@@ -1,6 +1,6 @@
 {
-  "version": "5.6.2",
+  "version": "5.6.3",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "97128D9DBCBBF4389D70414A6D50C46934FC69AFAC0143ECC13D32C83FACD174",
-  "notes": "A tela de rede agora mostra a URL completa para o app Atalhos e o modelo do cabeçalho Bearer em campos fáceis de copiar."
+  "sha256": "AAD667A7408263B8194FADEAE0101540A056AF37FB738A0B9955B73367D625D2",
+  "notes": "Adiciona IPs autorizados de ponte/VPN, copia os logs carregados e corrige o fechamento de aplicativos sem janelas de CMD piscando."
 }
