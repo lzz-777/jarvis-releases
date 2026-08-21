@@ -1,6 +1,6 @@
 {
-  "version": "5.6.7",
+  "version": "5.6.8",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "B4AE150349EA7782CB5CBCAE003447F89E5A96E10FA3FEEC0B9289DF820A3DC3",
-  "notes": "O fluxo Jarvis Relay J2 agora descobre automaticamente o IP e a porta atuais do PC; basta preencher o token."
+  "sha256": "58333FEB28B9E94D31B2C47C11E87EF61944AB69D0AD9EC3FD60035047624CFA",
+  "notes": "Corrige o Firewall quando o marcador existe, mas a regra real desapareceu, restaurando o painel do notebook no celular."
 }
