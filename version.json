@@ -1,6 +1,6 @@
 {
-  "version": "5.6.9",
+  "version": "5.7.0",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "8A1FF2C39CCF4CD462F3C6CC0EF452A3FF765429E3FD88104145475384ECF069",
-  "notes": "Restaura o painel do notebook no celular usando a regra privada do processo que realmente hospeda a Bridge."
+  "sha256": "FE3CFB78C4CBBBFD6F7EC220E13322D50D1E0DA1FC9726BA2201FD84787F2696",
+  "notes": "Recupera automaticamente a Bridge ao trocar de rede e permite colar e validar o token diretamente no painel do celular."
 }
