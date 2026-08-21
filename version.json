@@ -1,6 +1,6 @@
 {
-  "version": "5.6.5",
+  "version": "5.6.6",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "6D316375D9BECBD46B0957B9E08AC5729AB8B3A6BAE69DD11D054D53EB6212C7",
-  "notes": "Torna visivel a confirmacao unica do Firewall e evita novos pedidos ou avisos falsos nas atualizacoes seguintes."
+  "sha256": "1FE0FA1111AD6CD93A588EC79D3A37194BD7C3E8F447034844FA72F27EFCEB6E",
+  "notes": "Inclui o fluxo Jarvis Relay J2 pronto para receber comandos pelo Tailscale e encaminhar ao PC pelo nome local."
 }
