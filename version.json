@@ -1,6 +1,6 @@
 {
-  "version": "5.6.6",
+  "version": "5.6.7",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "1FE0FA1111AD6CD93A588EC79D3A37194BD7C3E8F447034844FA72F27EFCEB6E",
-  "notes": "Inclui o fluxo Jarvis Relay J2 pronto para receber comandos pelo Tailscale e encaminhar ao PC pelo nome local."
+  "sha256": "B4AE150349EA7782CB5CBCAE003447F89E5A96E10FA3FEEC0B9289DF820A3DC3",
+  "notes": "O fluxo Jarvis Relay J2 agora descobre automaticamente o IP e a porta atuais do PC; basta preencher o token."
 }
