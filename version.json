@@ -1,6 +1,6 @@
 {
-  "version": "5.6.4",
+  "version": "5.6.5",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "19555E7F77D229ABDD28821D8A56971B84D0DF6AFD78CF7B1E99470BD306994A",
-  "notes": "Configura o Firewall com uma regra segura por programa, valida para qualquer porta futura da Bridge em redes privadas."
+  "sha256": "6D316375D9BECBD46B0957B9E08AC5729AB8B3A6BAE69DD11D054D53EB6212C7",
+  "notes": "Torna visivel a confirmacao unica do Firewall e evita novos pedidos ou avisos falsos nas atualizacoes seguintes."
 }
