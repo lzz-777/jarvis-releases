@@ -1,6 +1,6 @@
 {
-  "version": "5.6.8",
+  "version": "5.6.9",
   "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "58333FEB28B9E94D31B2C47C11E87EF61944AB69D0AD9EC3FD60035047624CFA",
-  "notes": "Corrige o Firewall quando o marcador existe, mas a regra real desapareceu, restaurando o painel do notebook no celular."
+  "sha256": "8A1FF2C39CCF4CD462F3C6CC0EF452A3FF765429E3FD88104145475384ECF069",
+  "notes": "Restaura o painel do notebook no celular usando a regra privada do processo que realmente hospeda a Bridge."
 }
