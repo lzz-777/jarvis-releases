@@ -1,6 +1,6 @@
 {
-  "version": "5.7.0",
-  "download_url": "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-  "sha256": "FE3CFB78C4CBBBFD6F7EC220E13322D50D1E0DA1FC9726BA2201FD84787F2696",
-  "notes": "Recupera automaticamente a Bridge ao trocar de rede e permite colar e validar o token diretamente no painel do celular."
+    "version":  "5.8.0",
+    "download_url":  "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
+    "sha256":  "2A58F5B5960AD0E632BAF72B43BB99368384B6C8DC6C91095A4F50F881A96CFD",
+    "notes":  "Adiciona suporte completo e agnÃ³stico a Acesso Remoto, separaÃ§Ã£o visual e conceitual de Acesso Local (.local) e Acesso Remoto, e teste de conectividade de endpoint."
 }
