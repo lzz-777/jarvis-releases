@@ -1,6 +1,6 @@
 {
-    "version":  "5.9.0",
+    "version":  "5.9.1",
     "download_url":  "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-    "sha256":  "0844E54AA00ACF9FA15830260118127EF31B2AE635946F9976A28B3FA5C7A4F6",
-    "notes":  "Adiciona rotas remotas Direct e Relay, identidade persistente autenticada, Relay generico com redescoberta mDNS e compatibilidade com configuracoes 5.8.0."
+    "sha256":  "2A09F703552C8F989D68117CE04F2D3BF288FC89CCB8BF01E97E522882D8B4C0",
+    "notes":  "Corrige a janela Dispositivos e Rede em telas menores, adicionando ajuste automatico ao monitor e barras de rolagem para acessar todos os controles."
 }
