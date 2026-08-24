@@ -1,3 +1,3 @@
 # Jarvis Releases
 
-Canal pÃºblico de atualizaÃ§Ã£o do Jarvis. ContÃ©m somente o pacote instalÃ¡vel, manifesto de versÃ£o e SHA-256. NÃ£o contÃ©m tokens, credenciais, banco de dados ou configuraÃ§Ãµes pessoais.
+Canal publico de atualizacao do Jarvis. Contem somente o pacote instalavel, manifesto de versao e SHA-256. Nao contem tokens, credenciais, banco de dados ou configuracoes pessoais.
