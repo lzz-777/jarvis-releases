@@ -1,6 +1,6 @@
 {
-    "version":  "5.9.1",
+    "version":  "5.10.0",
     "download_url":  "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-    "sha256":  "2A09F703552C8F989D68117CE04F2D3BF288FC89CCB8BF01E97E522882D8B4C0",
-    "notes":  "Corrige a janela Dispositivos e Rede em telas menores, adicionando ajuste automatico ao monitor e barras de rolagem para acessar todos os controles."
+    "sha256":  "0B24E79D423E1E38EABEE9C84578E9AFBE330F8351456858E715793483064687",
+    "notes":  "Simplifica o painel remoto, abre a pagina de controle pela URL base e reduz processos duplicados, verificacoes e consumo em segundo plano."
 }
