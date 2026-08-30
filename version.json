@@ -1,6 +1,6 @@
 {
-    "version":  "5.10.6",
+    "version":  "5.10.7",
     "download_url":  "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-    "sha256":  "AC1EC4C8F0850494BAB3C07BDC01244EF432BC52558DEEA3A25B5AD7DDAB5B43",
+    "sha256":  "B6931DF3994062D041FDF8C9B7E377AC573683BB9BF141C9329126590C149BEB",
     "notes":  "Simplifica o painel remoto, abre a pagina de controle pela URL base e reduz processos duplicados, verificacoes e consumo em segundo plano."
 }
