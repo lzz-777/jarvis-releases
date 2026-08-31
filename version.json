@@ -1,6 +1,6 @@
 {
-    "version":  "5.11.2",
+    "version":  "5.12.0",
     "download_url":  "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-    "sha256":  "0637C48B0B9C877C336DC52787EFEBB85E4053C20438A6760FC8EE4DC225BFF4",
-    "notes":  "Continua abrindo os demais aplicativos quando um falha, aguarda corretamente os modos no Android e deixa as tres rotas de conexao visiveis."
+    "sha256":  "414124E51E49085E2D5110B3D8788354FFB97E4EDCF5ED6D8398F56F2BDB5AE6",
+    "notes":  "Adiciona descoberta segura, atualizacao automatica do IP direto, cache de modos e suporte a gateway completo ou relay somente de comandos."
 }
