@@ -1,6 +1,6 @@
 {
-    "version":  "5.10.7",
+    "version":  "5.11.0",
     "download_url":  "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-    "sha256":  "B6931DF3994062D041FDF8C9B7E377AC573683BB9BF141C9329126590C149BEB",
-    "notes":  "Simplifica o painel remoto, abre a pagina de controle pela URL base e reduz processos duplicados, verificacoes e consumo em segundo plano."
+    "sha256":  "6053D92590992FA6EAC0626CFBF989C562BA8469DAB28E485EA73567F391884A",
+    "notes":  "Adiciona diagnostico de conexao no PC e no Android, modos favoritos protegidos no celular e melhorias na verificacao de rotas."
 }
