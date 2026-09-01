@@ -1,6 +1,6 @@
 {
-    "version":  "5.13.1",
+    "version":  "5.13.2",
     "download_url":  "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-    "sha256":  "CD736D563B9FB7646DF787F1BFA8317F83D1F4C0A420842E5FE1431DCCA90A82",
-    "notes":  "Corrige a ordem de restauracao do perfil e preserva token, rotas e pareamento ao trocar o tema no Android."
+    "sha256":  "3729DAB16E819592A259DDBF79F2CEDAEFFC70F278F3BF031B654214F6950CC2",
+    "notes":  "Corrige o download de atualizacoes com cache antigo e repete a verificacao segura do pacote antes de instalar."
 }
