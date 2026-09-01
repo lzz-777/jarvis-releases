@@ -1,6 +1,6 @@
 {
-    "version":  "5.13.0",
+    "version":  "5.13.1",
     "download_url":  "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-    "sha256":  "A28D7CD690BEE9DC8B621BD7DC1153BCA103343393EC07C471BED3635809867E",
-    "notes":  "Corrige os temas, adiciona varios PCs com dados separados, campos claros para local, IP e relay VPN e redescoberta em toda a rede local."
+    "sha256":  "CD736D563B9FB7646DF787F1BFA8317F83D1F4C0A420842E5FE1431DCCA90A82",
+    "notes":  "Corrige a ordem de restauracao do perfil e preserva token, rotas e pareamento ao trocar o tema no Android."
 }
