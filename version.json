@@ -1,6 +1,6 @@
 {
-    "version":  "5.12.0",
+    "version":  "5.13.0",
     "download_url":  "https://raw.githubusercontent.com/lzz-777/jarvis-releases/main/jarvis-latest.zip",
-    "sha256":  "414124E51E49085E2D5110B3D8788354FFB97E4EDCF5ED6D8398F56F2BDB5AE6",
-    "notes":  "Adiciona descoberta segura, atualizacao automatica do IP direto, cache de modos e suporte a gateway completo ou relay somente de comandos."
+    "sha256":  "A28D7CD690BEE9DC8B621BD7DC1153BCA103343393EC07C471BED3635809867E",
+    "notes":  "Corrige os temas, adiciona varios PCs com dados separados, campos claros para local, IP e relay VPN e redescoberta em toda a rede local."
 }
